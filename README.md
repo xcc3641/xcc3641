@@ -1,7 +1,7 @@
-<H1 align='center'>👋</H1>
-<p align='center'>I am a mobile developer, passionate about building innovative and exciting projects using Dart and Kotlin</p>
+### 👋 Hi
 
-<p align='center'>
+I am a mobile developer, passionate about building innovative and exciting projects using Dart and Kotlin
+
 <a href="mailto:hugo3641@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
