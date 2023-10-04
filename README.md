@@ -9,9 +9,9 @@ I am a mobile developer, passionate about building innovative and exciting proje
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 
----
-
 ### What I have done
 
-- [App Store](https://apps.apple.com/developer/id1552871946)
-- [Google Play](https://play.google.com/store/apps/dev?id=6600056662611762016)
+- [App Store](https://apps.apple.com/developer/id1552871946) | [Google Play](https://play.google.com/store/apps/dev?id=6600056662611762016)
+
+
+
