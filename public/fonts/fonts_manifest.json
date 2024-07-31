@@ -184,5 +184,47 @@
       "type": "SIL Open Font License 1.1",
       "link": "https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE"
     }
+  },
+  {
+    "fontFamily": "JingHuaLaoSong",
+    "name": {
+      "en": "JingHuaLaoSong",
+      "zh-CN": "京華老宋体",
+      "ja": "京華老宋体"
+    },
+    "files": [
+      "JingHuaLaoSongv2.002.ttf"
+    ],
+    "description": {
+      "en": "",
+      "zh-CN": "",
+      "ja": ""
+    },
+    "website": "",
+    "license": {
+      "type": "Others",
+      "link": ""
+    }
+  },
+  {
+    "fontFamily": "HuiWenMingChao",
+    "name": {
+      "en": "HuiWenMingChao",
+      "zh-CN": "匯文明朝體",
+      "ja": "匯文明朝體"
+    },
+    "files": [
+      "HuiWenMingChao.otf"
+    ],
+    "description": {
+      "en": "",
+      "zh-CN": "",
+      "ja": ""
+    },
+    "website": "",
+    "license": {
+      "type": "Others",
+      "link": ""
+    }
   }
 ]
