@@ -124,26 +124,5 @@
       "type": "Others",
       "link": ""
     }
-  },
-  {
-    "fontFamily": "HuiWenMingChao",
-    "name": {
-      "en": "HuiWenMingChao",
-      "zh-CN": "匯文明朝體",
-      "ja": "匯文明朝體"
-    },
-    "files": [
-      "HuiWenMingChao.otf"
-    ],
-    "description": {
-      "en": "",
-      "zh-CN": "",
-      "ja": ""
-    },
-    "website": "",
-    "license": {
-      "type": "Others",
-      "link": ""
-    }
   }
 ]
