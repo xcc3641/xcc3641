@@ -7,16 +7,7 @@
       "ja": "MiSans"
     },
     "files": [
-      "MiSans-Bold.ttf",
-      "MiSans-Demibold.ttf",
-      "MiSans-ExtraLight.ttf",
-      "MiSans-Heavy.ttf",
-      "MiSans-Light.ttf",
-      "MiSans-Medium.ttf",
-      "MiSans-Normal.ttf",
-      "MiSans-Regular.ttf",
-      "MiSans-Semibold.ttf",
-      "MiSans-Thin.ttf"
+      "MiSans-Semibold.ttf"
     ],
     "description": {
       "en": "MiSans Global is a global language font customization project led by Xiaomi, in collaboration with Monotype and Hanyi Fonts. This is an extensive font family that encompasses over 20 writing systems, supports more than 600 languages, and includes over 100,000 characters. As the default font of the Xiaomi HyperOS system, we are guided by the fundamental principles of simplicity/clarity, humanism/readability, and a unified visual style. Our goal is to build consistency in multilingual information experiences and to help provide a connected universal experience for Xiaomi HyperOS.",
@@ -37,16 +28,7 @@
       "ja": "アリババ普惠体 3.0"
     },
     "files": [
-      "AlibabaPuHuiTi-3-35-Thin.ttf",
-      "AlibabaPuHuiTi-3-45-Light.ttf",
-      "AlibabaPuHuiTi-3-55-Regular.ttf",
-      "AlibabaPuHuiTi-3-55-RegularL3.ttf",
-      "AlibabaPuHuiTi-3-65-Medium.ttf",
-      "AlibabaPuHuiTi-3-75-SemiBold.ttf",
-      "AlibabaPuHuiTi-3-85-Bold.ttf",
-      "AlibabaPuHuiTi-3-95-ExtraBold.ttf",
-      "AlibabaPuHuiTi-3-105-Heavy.ttf",
-      "AlibabaPuHuiTi-3-115-Black.ttf"
+      "AlibabaPuHuiTi-3-75-SemiBold.ttf"
     ],
     "description": {
       "en": "Alibaba PuHuiTi is a globally free and licensed commercial font family. Alibaba PuHuiTi 3.0 is a Simplified Chinese character set that complies with the new national standard GB18030-2022. It includes three implementation levels of the GB18030-2022 mandatory specification: 7 weights that meet the standards of Implementation Levels 1 and 2, and a Regular single weight that meets the standards of Implementation Level 3. The 7 weights contain a total of 194,460 full-form Chinese characters. The font also includes Latin letters, Greek letters, Cyrillic letters, and punctuation marks.",
@@ -67,7 +49,6 @@
       "ja": "プランゴシック"
     },
     "files": [
-      "PlangothicP1-Regular.allideo.ttf",
       "PlangothicP2-Regular.ttf"
     ],
     "description": {
@@ -100,68 +81,6 @@
     "license": {
       "type": "IPA Font License 1.0",
       "link": "https://github.com/lxgw/LxgwNeoZhiSong/blob/main/LICENSE.md"
-    }
-  },
-  {
-    "fontFamily": "ArkPixelFont",
-    "name": {
-      "en": "Ark Pixel Font",
-      "zh-CN": "方舟像素字体",
-      "ja": "Ark Pixel Font"
-    },
-    "files": [
-      "Monospaced/10/ark-pixel-10px-monospaced-ja.ttf",
-      "Monospaced/10/ark-pixel-10px-monospaced-ko.ttf",
-      "Monospaced/10/ark-pixel-10px-monospaced-latin.ttf",
-      "Monospaced/10/ark-pixel-10px-monospaced-zh_cn.ttf",
-      "Monospaced/10/ark-pixel-10px-monospaced-zh_hk.ttf",
-      "Monospaced/10/ark-pixel-10px-monospaced-zh_tr.ttf",
-      "Monospaced/10/ark-pixel-10px-monospaced-zh_tw.ttf",
-      "Monospaced/12/ark-pixel-12px-monospaced-ja.ttf",
-      "Monospaced/12/ark-pixel-12px-monospaced-ko.ttf",
-      "Monospaced/12/ark-pixel-12px-monospaced-latin.ttf",
-      "Monospaced/12/ark-pixel-12px-monospaced-zh_cn.ttf",
-      "Monospaced/12/ark-pixel-12px-monospaced-zh_hk.ttf",
-      "Monospaced/12/ark-pixel-12px-monospaced-zh_tr.ttf",
-      "Monospaced/12/ark-pixel-12px-monospaced-zh_tw.ttf",
-      "Monospaced/16/ark-pixel-16px-monospaced-ja.ttf",
-      "Monospaced/16/ark-pixel-16px-monospaced-ko.ttf",
-      "Monospaced/16/ark-pixel-16px-monospaced-latin.ttf",
-      "Monospaced/16/ark-pixel-16px-monospaced-zh_cn.ttf",
-      "Monospaced/16/ark-pixel-16px-monospaced-zh_hk.ttf",
-      "Monospaced/16/ark-pixel-16px-monospaced-zh_tr.ttf",
-      "Monospaced/16/ark-pixel-16px-monospaced-zh_tw.ttf",
-      "Proportional/10/ark-pixel-10px-proportional-ja.ttf",
-      "Proportional/10/ark-pixel-10px-proportional-ko.ttf",
-      "Proportional/10/ark-pixel-10px-proportional-latin.ttf",
-      "Proportional/10/ark-pixel-10px-proportional-zh_cn.ttf",
-      "Proportional/10/ark-pixel-10px-proportional-zh_hk.ttf",
-      "Proportional/10/ark-pixel-10px-proportional-zh_tr.ttf",
-      "Proportional/10/ark-pixel-10px-proportional-zh_tw.ttf",
-      "Proportional/12/ark-pixel-12px-proportional-ja.ttf",
-      "Proportional/12/ark-pixel-12px-proportional-ko.ttf",
-      "Proportional/12/ark-pixel-12px-proportional-latin.ttf",
-      "Proportional/12/ark-pixel-12px-proportional-zh_hk.ttf",
-      "Proportional/12/ark-pixel-12px-proportional-zh_cn.ttf",
-      "Proportional/12/ark-pixel-12px-proportional-zh_tw.ttf",
-      "Proportional/12/ark-pixel-12px-proportional-zh_tr.ttf",
-      "Proportional/16/ark-pixel-16px-proportional-ja.ttf",
-      "Proportional/16/ark-pixel-16px-proportional-ko.ttf",
-      "Proportional/16/ark-pixel-16px-proportional-latin.ttf",
-      "Proportional/16/ark-pixel-16px-proportional-zh_cn.ttf",
-      "Proportional/16/ark-pixel-16px-proportional-zh_hk.ttf",
-      "Proportional/16/ark-pixel-16px-proportional-zh_tr.ttf",
-      "Proportional/16/ark-pixel-16px-proportional-zh_tw.ttf"
-    ],
-    "website": "https://github.com/TakWolf/ark-pixel-font",
-    "description": {
-      "en": "Open-source pan-CJK pixel font, sans-serif style, supporting 10, 12, and 16 pixels.",
-      "zh-CN": "开源的泛中日韩像素字体，黑体无衬线风格，支持 10、12 和 16 像素。",
-      "ja": "オープンソースの汎中日韩ピクセルフォント、サンセリフスタイルで、10、12、16 ピクセルに対応。"
-    },
-    "license": {
-      "type": "SIL Open Font License 1.1",
-      "link": "https://github.com/TakWolf/ark-pixel-font/blob/develop/LICENSE-OFL"
     }
   },
   {
