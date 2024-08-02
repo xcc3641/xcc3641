@@ -84,6 +84,27 @@
     }
   },
   {
+    "fontFamily": "LXGWWenKai",
+    "name": {
+      "en": "LXGW WenKai",
+      "zh-CN": "霞鹜文楷",
+      "ja": "霞鹜文楷"
+    },
+    "files": [
+      "LXGWWenKaiMonoLite Regular.ttf"
+    ],
+    "website": "",
+    "description": {
+      "en": "A Chinese serif font derived from IPAmj Mincho.",
+      "zh-CN": "一款衍生于「IPAmj 明朝」的中文宋体字型。",
+      "ja": "「IPAmj 明朝」から派生した中国語の宋体フォント。"
+    },
+    "license": {
+      "type": "IPA Font License 1.0",
+      "link": "https://github.com/lxgw/LxgwNeoZhiSong/blob/main/LICENSE.md"
+    }
+  },
+  {
     "fontFamily": "SmileySans",
     "name": {
       "en": "Smiley Sans",
