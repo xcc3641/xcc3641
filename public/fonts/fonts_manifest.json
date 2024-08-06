@@ -145,5 +145,26 @@
       "type": "Others",
       "link": ""
     }
+  },
+  {
+    "fontFamily": "AlibabaHealth",
+    "name": {
+      "en": "AlibabaHealth",
+      "zh-CN": "阿里健康体",
+      "ja": "阿里健康体"
+    },
+    "files": [
+      "AlibabaHealthFont2.0CN-45R.ttf"
+    ],
+    "description": {
+      "en": "",
+      "zh-CN": "",
+      "ja": ""
+    },
+    "website": "",
+    "license": {
+      "type": "Others",
+      "link": ""
+    }
   }
 ]
