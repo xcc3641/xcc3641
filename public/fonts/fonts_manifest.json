@@ -147,6 +147,27 @@
     }
   },
   {
+    "fontFamily": "Xiangcui-Dazijiti",
+    "name": {
+      "en": "XiangCui",
+      "zh-CN": "香萃打字机体",
+      "ja": "香萃打字机体"
+    },
+    "files": [
+      "Xiangcui-Dazijiti_W40.ttf"
+    ],
+    "description": {
+      "en": "",
+      "zh-CN": "",
+      "ja": ""
+    },
+    "website": "",
+    "license": {
+      "type": "Others",
+      "link": ""
+    }
+  },
+  {
     "fontFamily": "AlibabaHealth",
     "name": {
       "en": "AlibabaHealth",
