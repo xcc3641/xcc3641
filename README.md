@@ -13,6 +13,8 @@ I am a mobile developer, passionate about building innovative and exciting proje
 
 - [App Store](https://apps.apple.com/developer/id1552871946) | [Google Play](https://play.google.com/store/apps/dev?id=6600056662611762016)
 
+- [KaChiKa App - Learning Languages Through Life](https://kachika.app)
+
 - [Kosaku - Turn Your X/Instagram... Any link to a nice card](https://kosaku.imxie.club)
 
 
