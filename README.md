@@ -23,29 +23,14 @@
 
 ### 📱 Apps & Creations
 
-- <img src="assets/icons/jizhi.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Jizhi](https://jizhi.yichenlab.com)** — Classical poetry painted with traditional colors & solar terms.  
-  [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id1552874203) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.jizhi)
-
-- <img src="assets/icons/kachika.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[KaChiKa](https://kachika.app)** — Visual AI photo flashcards & spaced-repetition language learning.  
-  [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6739525442) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.photoja)
-
-- <img src="assets/icons/cococut.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[CocoCut](https://cococut.app)** — Capture 1 second every day and stitch into a yearly vlog on device.  
-  [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6791056763) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.yige)
-
-- <img src="assets/icons/kosaku.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Kosaku](https://kosaku.yichenlab.com)** — Turn links, quotes, and notes into magazine-grade share cards *(App Store Editor's Choice)*.  
-  [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id1611559010) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.card)
-
-- <img src="assets/icons/yan.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Yan](https://yan.yichenlab.com)** — Digital chaos engine & cyberpunk CRT scanline photo editor.  
-  [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6757863100) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.glitch)
-
-- <img src="assets/icons/lazysea.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[LazySea FM](https://apps.apple.com/us/app/id6475624668)** — White noise with breathing tidal waves and ocean healing soundscapes.  
-  [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6475624668)
-
-- <img src="assets/icons/cleaner.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Cleaner For Flutter](https://apps.apple.com/us/app/id6661026876)** — One-click cleanup for Mac disk space freed from Flutter build caches.  
-  [![macOS](https://img.shields.io/badge/Mac_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6661026876)
-
-- <img src="assets/icons/score.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Score](https://apps.apple.com/us/app/id6615084303)** — Tactile multiplayer scoreboard with radial dials for board & card games.  
-  [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6615084303)
+- <img src="assets/icons/jizhi.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Jizhi** — Classical poetry painted with traditional colors & solar terms. — [Web](https://jizhi.yichenlab.com) | [iOS](https://apps.apple.com/us/app/id1552874203) | [Android](https://play.google.com/store/apps/details?id=com.hugo.jizhi)
+- <img src="assets/icons/kachika.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **KaChiKa** — Visual AI photo flashcards & spaced-repetition language learning. — [Web](https://kachika.app) | [iOS](https://apps.apple.com/us/app/id6739525442) | [Android](https://play.google.com/store/apps/details?id=com.hugo.photoja)
+- <img src="assets/icons/cococut.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **CocoCut** — 1s daily vlog & video diary stitched on device. — [Web](https://cococut.app) | [iOS](https://apps.apple.com/us/app/id6791056763) | [Android](https://play.google.com/store/apps/details?id=com.hugo.yige)
+- <img src="assets/icons/kosaku.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Kosaku** — Turn links & notes into magazine-grade cards *(App Store Editor's Choice)*. — [Web](https://kosaku.yichenlab.com) | [iOS](https://apps.apple.com/us/app/id1611559010) | [Android](https://play.google.com/store/apps/details?id=com.hugo.card)
+- <img src="assets/icons/yan.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Yan** — Digital chaos engine & cyberpunk CRT scanline editor. — [Web](https://yan.yichenlab.com) | [iOS](https://apps.apple.com/us/app/id6757863100) | [Android](https://play.google.com/store/apps/details?id=com.hugo.glitch)
+- <img src="assets/icons/lazysea.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **LazySea FM** — Tidal white noise & ocean healing soundscapes. — [iOS](https://apps.apple.com/us/app/id6475624668)
+- <img src="assets/icons/cleaner.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Cleaner For Flutter** — One-click cleanup for Mac disk space freed from Flutter build caches. — [macOS](https://apps.apple.com/us/app/id6661026876)
+- <img src="assets/icons/score.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Score** — Tactile multiplayer scoreboard for board & card games. — [iOS](https://apps.apple.com/us/app/id6615084303)
 
 <br/>
 
