@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Hugo / 亦晨
+# 👋 Hi, I'm Hugo
 
-**Indie Mobile Developer & Creator of [Yichen Studio (亦晨工作室)](https://yichenlab.com)**  
+**Indie Mobile Developer & Creator of [Yichen Studio](https://yichenlab.com)**  
 *Crafting tactile, local-first, and aesthetic apps for iOS, macOS, Android & Web.*
 
 <br/>
@@ -23,28 +23,28 @@
 
 ### 📱 Apps & Creations
 
-- <img src="assets/icons/jizhi.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[几枝 · Jizhi](https://jizhi.yichenlab.com)** — Classical Chinese poetry painted with traditional colors & solar terms.  
+- <img src="assets/icons/jizhi.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Jizhi](https://jizhi.yichenlab.com)** — Classical poetry painted with traditional colors & solar terms.  
   [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id1552874203) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.jizhi)
 
-- <img src="assets/icons/kachika.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[KaChiKa · 卡咔](https://kachika.app)** — Visual AI photo flashcards & spaced-repetition language learning.  
+- <img src="assets/icons/kachika.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[KaChiKa](https://kachika.app)** — Visual AI photo flashcards & spaced-repetition language learning.  
   [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6739525442) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.photoja)
 
-- <img src="assets/icons/cococut.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[CocoCut · 一秒日记](https://cococut.app)** — Capture 1 second every day and stitch into a yearly vlog on device.  
+- <img src="assets/icons/cococut.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[CocoCut](https://cococut.app)** — Capture 1 second every day and stitch into a yearly vlog on device.  
   [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6791056763) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.yige)
 
-- <img src="assets/icons/kosaku.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Kosaku · 耕作](https://kosaku.yichenlab.com)** — Turn links, quotes, and notes into magazine-grade share cards *(App Store Editor's Choice)*.  
+- <img src="assets/icons/kosaku.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Kosaku](https://kosaku.yichenlab.com)** — Turn links, quotes, and notes into magazine-grade share cards *(App Store Editor's Choice)*.  
   [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id1611559010) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.card)
 
-- <img src="assets/icons/yan.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Yan · 衍图](https://yan.yichenlab.com)** — Digital chaos engine & cyberpunk CRT scanline photo editor.  
+- <img src="assets/icons/yan.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Yan](https://yan.yichenlab.com)** — Digital chaos engine & cyberpunk CRT scanline photo editor.  
   [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6757863100) [![Android](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hugo.glitch)
 
-- <img src="assets/icons/lazysea.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[LazySea FM · 懒海](https://apps.apple.com/us/app/id6475624668)** — White noise with breathing tidal waves and ocean healing soundscapes.  
+- <img src="assets/icons/lazysea.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[LazySea FM](https://apps.apple.com/us/app/id6475624668)** — White noise with breathing tidal waves and ocean healing soundscapes.  
   [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6475624668)
 
 - <img src="assets/icons/cleaner.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Cleaner For Flutter](https://apps.apple.com/us/app/id6661026876)** — One-click cleanup for Mac disk space freed from Flutter build caches.  
   [![macOS](https://img.shields.io/badge/Mac_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6661026876)
 
-- <img src="assets/icons/score.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Score · 小记分](https://apps.apple.com/us/app/id6615084303)** — Tactile multiplayer scoreboard with radial dials for board & card games.  
+- <img src="assets/icons/score.png" width="24" height="24" style="border-radius: 5px;" valign="middle" /> **[Score](https://apps.apple.com/us/app/id6615084303)** — Tactile multiplayer scoreboard with radial dials for board & card games.  
   [![iOS](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/id6615084303)
 
 <br/>
@@ -76,6 +76,6 @@
 
 <br/>
 
-<sub>© Yichen Studio (亦晨工作室) · 莫愁好景消磨尽，且向人间造化来</sub>
+<sub>© Yichen Studio · Crafted with care</sub>
 
 </div>
