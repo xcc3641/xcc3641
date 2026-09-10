@@ -1,66 +1,35 @@
-<div align="center">
+These are what I've built as an indie developer:
 
-# 👋 Hi, I'm Hugo
+这些是我作为独立开发者打造的产品与 Flutter 开源作品：
 
-**Indie Mobile Developer & Creator of [Yichen Studio](https://yichenlab.com)**  
-*Crafting tactile, local-first, and aesthetic apps for iOS, macOS, Android & Web.*
+| |  | for human |
+|---|---|---|
+| 🎬 | [CocoCut](https://cococut.app) | 1s daily vlog & video diary stitched completely on device. Capture one second of life every day.<br>每天一秒的极简生活视频日记，全部于端侧自动缝合渲染，留住流淌的时间。 |
+| 📸 | [KaChiKa](https://kachika.app) | Visual AI photo flashcards & spaced-repetition language learning. Learn Japanese & English through your camera.<br>多模态视觉记忆闪卡：拍照识物、间隔重复算法与生活情境化外语学习。 |
+| 🎴 | [几枝 Jizhi](https://jizhi.yichenlab.com) | Classical poetry painted with traditional Chinese colors & solar terms. Daily verses flowing with weather.<br>愿君多采撷：古典诗词遇见中国传统色与二十四节气，随天气流转的桌面诗意。 |
+| 📑 | [Kosaku](https://kosaku.yichenlab.com) | Turn links, notes & thoughts into magazine-grade aesthetic cards *(App Store Editor's Choice)*.<br>耕作：将链接、摘录与灵感转化为杂志质感的信息卡片与宣发海报（App Store 编辑精选推荐）。 |
+| 👾 | [Yan](https://yan.yichenlab.com) | Cyberpunk glitch art photo editor & CRT scanline studio with dither and pixel-sort filters.<br>数字故障艺术与赛博朋克 CRT 扫描线工坊，带抖动算法与像素排序滤镜。 |
+| 🌊 | [LazySea FM](https://apps.apple.com/us/app/lazysea-fm-white-noise-app/id6475624668) | Ambient healing soundscapes & tidal white noise paired with breathing wave animations.<br>潮汐白噪音与呼吸海洋动效，沉浸式极简声音疗愈空间。 |
+| 🎲 | [Score](https://apps.apple.com/us/app/score-board-card-games/id6615084303) | Tactile multiplayer scoreboard with physical haptic dials for game nights, board games, and cards.<br>专为桌游与聚会设计的触感多人计分板，带物理阻尼手感的旋转表盘。 |
+| 🎨 | [Gradient](https://apps.apple.com/us/app/id1575379367) | Craft minimal 4K gradient wallpapers and extract harmonious aesthetic palettes from photos.<br>小成变：制作极简 4K 渐变壁纸，从日常摄影中提取高质感自然色板。 |
 
-<br/>
+| |  | for developers (Flutter) |
+|---|---|---|
+| 🖼️ | [flutter_hero_photo_viewer](https://github.com/xcc3641/flutter_hero_photo_viewer) | Instagram-style photo viewer for Flutter with jank-free Hero transitions, isomorphic endpoints, and deferred layering.<br>ins 风格大图查看器：Hero 两端同构、分层延迟挂载，告别变形与闪帧的 60fps 丝滑过场。 |
+| 🔍 | [flutter_native_data_detector](https://github.com/xcc3641/flutter_native_data_detector) | Cross-platform text data detection using NSDataDetector on iOS and ML Kit on Android.<br>跨平台文本数据检测：iOS 端基于 NSDataDetector，Android 端基于 Google ML Kit 实体提取。 |
+| ✂️ | [native_cutout](https://github.com/xcc3641/flutter_native_cutout) | On-device native background removal for Flutter using Apple Vision & Google ML Kit.<br>完全离线的端侧原生抠图插件：利用系统级视觉框架实现高精度背景移除与透明图输出。 |
+| 📈 | [flutter_math_curve_loading](https://github.com/xcc3641/flutter_math_curve_loading) | 21 parametric mathematical curve loading indicators with breathing particle trails.<br>基于 21 种数学参数曲线的 Flutter 粒子轨迹加载指示器，纯 Dart 跨端实现。 |
+| 🎯 | [hit](https://github.com/xcc3641/hit) | Decouple Flutter layout size from hit-test size, and deliver taps outside parent bounds.<br>解耦 Flutter 布局尺寸与点击命中测试区域，优雅支持父边界外的交互事件分发。 |
+| 💿 | [flutter_holographic](https://github.com/xcc3641/flutter_holographic) | Lightweight Flutter widget for holographic foil and reflection effects using runtime shaders.<br>基于 Flutter 运行时 Shader 实现的全息镭射金箔与动态光斑反射视觉特效组件。 |
+| ⚡ | [shared_preferences_riverpod](https://github.com/xcc3641/shared_preferences_riverpod_new) | One-liner Riverpod 3 providers backed by SharedPreferences on AsyncNotifier.<br>基于 AsyncNotifier 的现代 Riverpod 3 持久化扩展，一行代码定义响应式存储状态。 |
+| 🧹 | [Cleaner For Flutter](https://apps.apple.com/us/app/cleaner-for-flutter/id6661026876) | One-click macOS menu bar utility to reclaim gigabytes of disk space from Flutter build caches.<br>macOS 状态栏一键清理工具，秒级释放数 GB 的 Flutter 本地构建缓存。 |
 
-<a href="https://yichenlab.com">
-  <img src="https://img.shields.io/badge/Official_Website-yichenlab.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://apps.apple.com/developer/id1552871946">
-  <img src="https://img.shields.io/badge/App_Store-Yichen_Studio-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/dev?id=6600056662611762016">
-  <img src="https://img.shields.io/badge/Google_Play-Yichen_Studio-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
+> Crafting Tactile & Local-First Software | 打造有触感与离线优先的数字造物
 
-<br/><br/>
+Aesthetic craft, local-first architecture, zero dark patterns, and tactile micro-interactions.
 
-</div>
+追求精致审美、本地离线优先、零恶意套路与有触感的情绪交互。
 
-### 📱 Apps & Creations
-
-- <img src="assets/icons/jizhi.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Jizhi** — Classical poetry painted with traditional colors & solar terms. — [Web](https://jizhi.yichenlab.com) | [iOS](https://apps.apple.com/us/app/id1552874203) | [Android](https://play.google.com/store/apps/details?id=com.hugo.jizhi)
-- <img src="assets/icons/kachika.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **KaChiKa** — Visual AI photo flashcards & spaced-repetition language learning. — [Web](https://kachika.app) | [iOS](https://apps.apple.com/us/app/id6739525442) | [Android](https://play.google.com/store/apps/details?id=com.hugo.photoja)
-- <img src="assets/icons/cococut.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **CocoCut** — 1s daily vlog & video diary stitched on device. — [Web](https://cococut.app) | [iOS](https://apps.apple.com/us/app/id6791056763) | [Android](https://play.google.com/store/apps/details?id=com.hugo.yige)
-- <img src="assets/icons/kosaku.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Kosaku** — Turn links & notes into magazine-grade cards *(App Store Editor's Choice)*. — [Web](https://kosaku.yichenlab.com) | [iOS](https://apps.apple.com/us/app/id1611559010) | [Android](https://play.google.com/store/apps/details?id=com.hugo.card)
-- <img src="assets/icons/yan.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Yan** — Digital chaos engine & cyberpunk CRT scanline editor. — [Web](https://yan.yichenlab.com) | [iOS](https://apps.apple.com/us/app/id6757863100) | [Android](https://play.google.com/store/apps/details?id=com.hugo.glitch)
-- <img src="assets/icons/lazysea.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **LazySea FM** — Tidal white noise & ocean healing soundscapes. — [iOS](https://apps.apple.com/us/app/id6475624668)
-- <img src="assets/icons/cleaner.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Cleaner For Flutter** — One-click cleanup for Mac disk space freed from Flutter build caches. — [macOS](https://apps.apple.com/us/app/id6661026876)
-- <img src="assets/icons/score.png" width="20" height="20" style="border-radius: 4px;" valign="middle" /> **Score** — Tactile multiplayer scoreboard for board & card games. — [iOS](https://apps.apple.com/us/app/id6615084303)
-
-<br/>
-
-### 🛠 Tech & Philosophy
-
-- **Philosophy**: Local-First · Zero Dark Patterns · Offline-Ready · Privacy-First.
-- **Stack**: Flutter, Dart, Kotlin, Swift, Jetpack Compose, SwiftUI.
-- **Craft**: Typography & CJK text rendering, bespoke palettes, tactile micro-interactions.
-
-<br/>
-
----
-
-<div align="center">
-
-<a href="https://yichenlab.com">
-  <img src="https://img.shields.io/badge/Website-yichenlab.com-000000?style=flat-square&logo=google-chrome&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/Lumosous">
-  <img src="https://img.shields.io/badge/Twitter-%40Lumosous-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:hi@yichenlab.com">
-  <img src="https://img.shields.io/badge/Email-hi%40yichenlab.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://hits.sh/github.com/xcc3641/">
-  <img src="https://hits.sh/github.com/xcc3641.svg?view=today-total&style=flat-square&label=Views&color=000000" alt="Views" />
-</a>
-
-<br/>
-
-<sub>© Yichen Studio · Crafted with care</sub>
-
-</div>
+<p align="center">
+  <sub>🏡 <a href="https://yichenlab.com">Yichen Studio</a> · <a href="https://apps.apple.com/developer/id1552871946">App Store</a> · <a href="https://play.google.com/store/apps/dev?id=6600056662611762016">Google Play</a> · <a href="https://x.com/Lumosous">X (@Lumosous)</a> · <a href="mailto:hi@yichenlab.com">Email</a></sub>
+</p>
