@@ -17,8 +17,6 @@ These are what I've built as an indie developer:
 |---|---|---|
 | ✨ | [blinkface](https://github.com/xcc3641/blinkface) | Gesture viewfinder + real-time AI face restyle using FLUX.2 klein. Frame your face with both hands to transform live.<br>手势取景器与实时 AI 换脸：基于 FLUX.2 klein，双手比出取景框即可就地实时变换二次元、赛博朋克与吉卜力风格。 |
 | 🎬 | [minimax-h3-starter](https://github.com/xcc3641/minimax-h3-starter) | Experimental toolkit & workflows for MiniMax H3 video generation with ComfyUI, 2K CLI, and camera controls.<br>MiniMax H3 视频生成实验工坊：涵盖 T2V/I2V 镜头运镜、ComfyUI 工作流、2K 批量生成与 Prompt 实战。 |
-| 🔌 | [open-connector](https://github.com/xcc3641/open-connector) | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, and MCP.<br>面向 AI Agent 的开源统一认证网关：为智能体一站式打通 1000+ SaaS 服务的 MCP、CLI 与 API 工具链。 |
-| 🎙️ | [Doubao-Voice-Bridge](https://github.com/xcc3641/Doubao-Voice-Input-Bridge) | Native macOS shortcut bridge for press-to-talk voice input via Doubao AI using the right-Command key.<br>macOS 语音输入桥接器：长按右侧 Command 键即刻唤起豆包 AI 语音输入，松手自动切回原输入法。 |
 
 | |  | About Flutter |
 |---|---|---|
