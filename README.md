@@ -31,3 +31,9 @@ These are what I've built as an indie developer:
 <p align="center">
   <sub>🏡 <a href="https://yichenlab.com">Yichen Studio</a> · <a href="https://apps.apple.com/developer/id1552871946">App Store</a> · <a href="https://play.google.com/store/apps/dev?id=6600056662611762016">Google Play</a> · <a href="https://x.com/Lumosous">X (@Lumosous)</a> · <a href="mailto:hi@yichenlab.com">hi@yichenlab.com</a></sub>
 </p>
+
+<p align="center">
+  <a href="https://hits.sh/github.com/xcc3641/">
+    <img src="https://hits.sh/github.com/xcc3641.svg?view=today-total&style=flat-square&label=Views&color=000000" alt="Views" />
+  </a>
+</p>
