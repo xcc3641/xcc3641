@@ -2,7 +2,7 @@ These are what I've built as an indie developer:
 
 这些是我作为独立开发者打造的产品与 Flutter 开源作品：
 
-| |  | for human |
+| |  | My Apps |
 |---|---|---|
 | 🎬 | [CocoCut](https://cococut.app) | 1s daily vlog & video diary stitched completely on device. Capture one second of life every day.<br>每天一秒的极简生活视频日记，全部于端侧自动缝合渲染，留住流淌的时间。 |
 | 📸 | [KaChiKa](https://kachika.app) | Visual AI photo flashcards & spaced-repetition language learning. Learn Japanese & English through your camera.<br>多模态视觉记忆闪卡：拍照识物、间隔重复算法与生活情境化外语学习。 |
@@ -13,13 +13,12 @@ These are what I've built as an indie developer:
 | 🎲 | [Score](https://apps.apple.com/us/app/score-board-card-games/id6615084303) | Tactile multiplayer scoreboard with physical haptic dials for game nights, board games, and cards.<br>专为桌游与聚会设计的触感多人计分板，带物理阻尼手感的旋转表盘。 |
 | 🎨 | [Gradient](https://apps.apple.com/us/app/id1575379367) | Craft minimal 4K gradient wallpapers and extract harmonious aesthetic palettes from photos.<br>小成变：制作极简 4K 渐变壁纸，从日常摄影中提取高质感自然色板。 |
 
-| |  | for developers (Flutter) |
+| |  | About Flutter |
 |---|---|---|
 | 🖼️ | [flutter_hero_photo_viewer](https://github.com/xcc3641/flutter_hero_photo_viewer) | Instagram-style photo viewer for Flutter with jank-free Hero transitions, isomorphic endpoints, and deferred layering.<br>ins 风格大图查看器：Hero 两端同构、分层延迟挂载，告别变形与闪帧的 60fps 丝滑过场。 |
 | 🔍 | [flutter_native_data_detector](https://github.com/xcc3641/flutter_native_data_detector) | Cross-platform text data detection using NSDataDetector on iOS and ML Kit on Android.<br>跨平台文本数据检测：iOS 端基于 NSDataDetector，Android 端基于 Google ML Kit 实体提取。 |
 | ✂️ | [native_cutout](https://github.com/xcc3641/flutter_native_cutout) | On-device native background removal for Flutter using Apple Vision & Google ML Kit.<br>完全离线的端侧原生抠图插件：利用系统级视觉框架实现高精度背景移除与透明图输出。 |
 | 📈 | [flutter_math_curve_loading](https://github.com/xcc3641/flutter_math_curve_loading) | 21 parametric mathematical curve loading indicators with breathing particle trails.<br>基于 21 种数学参数曲线的 Flutter 粒子轨迹加载指示器，纯 Dart 跨端实现。 |
-| 🎯 | [hit](https://github.com/xcc3641/hit) | Decouple Flutter layout size from hit-test size, and deliver taps outside parent bounds.<br>解耦 Flutter 布局尺寸与点击命中测试区域，优雅支持父边界外的交互事件分发。 |
 | 💿 | [flutter_holographic](https://github.com/xcc3641/flutter_holographic) | Lightweight Flutter widget for holographic foil and reflection effects using runtime shaders.<br>基于 Flutter 运行时 Shader 实现的全息镭射金箔与动态光斑反射视觉特效组件。 |
 | ⚡ | [shared_preferences_riverpod](https://github.com/xcc3641/shared_preferences_riverpod_new) | One-liner Riverpod 3 providers backed by SharedPreferences on AsyncNotifier.<br>基于 AsyncNotifier 的现代 Riverpod 3 持久化扩展，一行代码定义响应式存储状态。 |
 | 🧹 | [Cleaner For Flutter](https://apps.apple.com/us/app/cleaner-for-flutter/id6661026876) | One-click macOS menu bar utility to reclaim gigabytes of disk space from Flutter build caches.<br>macOS 状态栏一键清理工具，秒级释放数 GB 的 Flutter 本地构建缓存。 |
