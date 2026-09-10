@@ -23,12 +23,6 @@ These are what I've built as an indie developer:
 | ⚡ | [shared_preferences_riverpod](https://github.com/xcc3641/shared_preferences_riverpod_new) | One-liner Riverpod 3 providers backed by SharedPreferences on AsyncNotifier.<br>基于 AsyncNotifier 的现代 Riverpod 3 持久化扩展，一行代码定义响应式存储状态。 |
 | 🧹 | [Cleaner&nbsp;For&nbsp;Flutter](https://apps.apple.com/us/app/cleaner-for-flutter/id6661026876) | One-click macOS menu bar utility to reclaim gigabytes of disk space from Flutter build caches.<br>macOS 状态栏一键清理工具，秒级释放数 GB 的 Flutter 本地构建缓存。 |
 
-> Crafting Tactile & Local-First Software | 打造有触感与离线优先的数字造物
-
-Aesthetic craft, local-first architecture, zero dark patterns, and tactile micro-interactions.
-
-追求精致审美、本地离线优先、零恶意套路与有触感的情绪交互。
-
 <p align="center">
-  <sub>🏡 <a href="https://yichenlab.com">Yichen Studio</a> · <a href="https://apps.apple.com/developer/id1552871946">App Store</a> · <a href="https://play.google.com/store/apps/dev?id=6600056662611762016">Google Play</a> · <a href="https://x.com/Lumosous">X (@Lumosous)</a> · <a href="mailto:hi@yichenlab.com">Email</a></sub>
+  <sub>🏡 <a href="https://yichenlab.com">Yichen Studio</a> · <a href="https://apps.apple.com/developer/id1552871946">App Store</a> · <a href="https://play.google.com/store/apps/dev?id=6600056662611762016">Google Play</a> · <a href="https://x.com/Lumosous">X (@Lumosous)</a> · <a href="mailto:hi@yichenlab.com">hi@yichenlab.com</a></sub>
 </p>
