@@ -1,6 +1,6 @@
 These are what I've built as an indie developer:
 
-这些是我作为独立开发者打造的产品与 Flutter 开源作品：
+这些是我作为独立开发者打造的产品、AI 项目与 Flutter 开源作品：
 
 | |  | My Apps |
 |---|---|---|
@@ -12,6 +12,13 @@ These are what I've built as an indie developer:
 | 🌊 | [LazySea&nbsp;FM](https://apps.apple.com/us/app/lazysea-fm-white-noise-app/id6475624668) | Ambient healing soundscapes & tidal white noise paired with breathing wave animations.<br>潮汐白噪音与呼吸海洋动效，沉浸式极简声音疗愈空间。 |
 | 🎲 | [Score](https://apps.apple.com/us/app/score-board-card-games/id6615084303) | Tactile multiplayer scoreboard with physical haptic dials for game nights, board games, and cards.<br>专为桌游与聚会设计的触感多人计分板，带物理阻尼手感的旋转表盘。 |
 | 🎨 | [Gradient](https://apps.apple.com/us/app/id1575379367) | Craft minimal 4K gradient wallpapers and extract harmonious aesthetic palettes from photos.<br>小成变：制作极简 4K 渐变壁纸，从日常摄影中提取高质感自然色板。 |
+
+| |  | About AI |
+|---|---|---|
+| ✨ | [blinkface](https://github.com/xcc3641/blinkface) | Gesture viewfinder + real-time AI face restyle using FLUX.2 klein. Frame your face with both hands to transform live.<br>手势取景器与实时 AI 换脸：基于 FLUX.2 klein，双手比出取景框即可就地实时变换二次元、赛博朋克与吉卜力风格。 |
+| 🎬 | [minimax-h3-starter](https://github.com/xcc3641/minimax-h3-starter) | Experimental toolkit & workflows for MiniMax H3 video generation with ComfyUI, 2K CLI, and camera controls.<br>MiniMax H3 视频生成实验工坊：涵盖 T2V/I2V 镜头运镜、ComfyUI 工作流、2K 批量生成与 Prompt 实战。 |
+| 🔌 | [open-connector](https://github.com/xcc3641/open-connector) | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, and MCP.<br>面向 AI Agent 的开源统一认证网关：为智能体一站式打通 1000+ SaaS 服务的 MCP、CLI 与 API 工具链。 |
+| 🎙️ | [Doubao-Voice-Bridge](https://github.com/xcc3641/Doubao-Voice-Input-Bridge) | Native macOS shortcut bridge for press-to-talk voice input via Doubao AI using the right-Command key.<br>macOS 语音输入桥接器：长按右侧 Command 键即刻唤起豆包 AI 语音输入，松手自动切回原输入法。 |
 
 | |  | About Flutter |
 |---|---|---|
